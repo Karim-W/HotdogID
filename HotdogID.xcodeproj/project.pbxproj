@@ -15,6 +15,7 @@
 		8AAD856624D0BDE100C8F654 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AAD856424D0BDE100C8F654 /* LaunchScreen.storyboard */; };
 		8AAD857124D0BDE200C8F654 /* HotdogIDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAD857024D0BDE200C8F654 /* HotdogIDTests.swift */; };
 		8AAD857C24D0BDE200C8F654 /* HotdogIDUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AAD857B24D0BDE200C8F654 /* HotdogIDUITests.swift */; };
+		8AAD859224D11B2B00C8F654 /* HotdogsID 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 8AAD859124D11B2B00C8F654 /* HotdogsID 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8AAD857724D0BDE200C8F654 /* HotdogIDUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HotdogIDUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AAD857B24D0BDE200C8F654 /* HotdogIDUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotdogIDUITests.swift; sourceTree = "<group>"; };
 		8AAD857D24D0BDE200C8F654 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8AAD859124D11B2B00C8F654 /* HotdogsID 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "HotdogsID 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				8AAD855924D0BDDF00C8F654 /* AppDelegate.swift */,
 				8AAD855B24D0BDDF00C8F654 /* SceneDelegate.swift */,
+				8AAD859124D11B2B00C8F654 /* HotdogsID 1.mlmodel */,
 				8AAD855D24D0BDDF00C8F654 /* ViewController.swift */,
 				8AAD855F24D0BDDF00C8F654 /* Main.storyboard */,
 				8AAD856224D0BDE100C8F654 /* Assets.xcassets */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8AAD855E24D0BDDF00C8F654 /* ViewController.swift in Sources */,
+				8AAD859224D11B2B00C8F654 /* HotdogsID 1.mlmodel in Sources */,
 				8AAD855A24D0BDDF00C8F654 /* AppDelegate.swift in Sources */,
 				8AAD855C24D0BDDF00C8F654 /* SceneDelegate.swift in Sources */,
 			);
